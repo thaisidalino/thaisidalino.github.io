@@ -1,4 +1,4 @@
 [project]
 name = Thais
 [servers.ghpages]
-target = ghpages+https://thaisbardini/webpage
+target = ghpages://thaisbardini/webpage
