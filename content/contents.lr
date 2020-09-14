@@ -1,0 +1,21 @@
+title: About Me
+---
+body:
+
+<p> <img src="photo.jpg"  style="float:left;width:200px;height:200px;" id="hp">
+I am a Postdoctoral Fellow in the Department of Mathematics at Simon Fraser University and recently completed my Ph.D. in Computer Science at the University of Ottawa. I place myself at the intersection of Combinatorics and Cryptography, with a special focus on developing new combinatorial objects with nice applications in cryptography.</p>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+**Experience:**
+
+* Postdoctoral fellow - Mathematics Department - Simon Fraser University (nov 2019 - now)
+* Ph.D. degree in Computer Science - University of Ottawa (Sept 2015 - Sept 2019)
+* Master's degree in Computer Science - Federal University of Santa Catarina (Mar 2013 - Jun 2015)
+* Bachelor degree in Computer Science - Federal University of Santa Catarina (Mar 2009 - Dec 2012)
+
+<br>
+**Contact:** tbardini@sfu.ca
