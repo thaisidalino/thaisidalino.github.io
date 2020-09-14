@@ -1,0 +1,13 @@
+_model: page
+---
+title: CV
+---
+body:
+
+Here is my <a href="cv_thais.pdf" target="_blank">Curriculum Vitae</a> in English.
+
+Você também pode acessar o meu <a href="http://lattes.cnpq.br/1392550024680269" target="_blank">Lattes</a> em português.
+
+
+---
+_discoverable: yes

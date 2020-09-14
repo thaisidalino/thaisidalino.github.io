@@ -1,0 +1,38 @@
+_model: page
+---
+title: Presentations
+---
+body:
+
+I love to talk, I particularly love to talk about my research. I believe that communicating what we do in a comprehensive way is as important as the work itself, and this is the reason why I try to give as many talks as I can and I am always trying to improve my communication skills.
+
+Here is a list of presentations I gave in the last few years:
+
+**Conference talks:**
+* *Fault tolerance in cryptography using cover-free families*. Coast Combinatorics Conference, University of Victoria, Victoria, BC, Canada, March 7 and 8, 2020.
+* *Modification tolerant signature schemes: location and correction*. 20th International Conference on Cryptology in India, December 2019. (online talk)
+* *Embedding cover-free families and cryptographical applications*. **Invited presentation** at the Ottawa Mathematics Conference, University of Ottawa, Ottawa, ON, Canada, June 2019.
+* *Embedding cover-free families and cryptographical applications*. **Invited presentation** at the 7th biennial Canadian Discrete and Algorithmic Mathematics Conference, Vancouver, BC, Canada, May 2019.
+* *Efficient unbounded fault-tolerant aggregate signatures using nested cover-free families*. **Invited presentation** at the Discrete Mathematics in Communications and Computation session, at the Canadian Mathematical Society winter meeting, Vancouver, BC, Canada, December 2018.
+* *Efficient unbounded fault-tolerant aggregate signatures using nested cover-free families*. Grad Student Lightning Talks, Canadian Celebration of Women in Computing, Halifax, NS, Canada, November 2018. **(award winner)**
+* *Efficient unbounded fault-tolerant aggregate signatures using nested cover-free families*. International Workshop on Combinatorial Algorithms (IWOCA) Singapore, July 2018.
+* *When private and professional lives meet: The impact of digital footprints on employees and political candidates*. Joint talk with Reham Ebada Mohamed at the 8th International Conference on Social Media & Society, Toronto, ON, Canada, August 2017.
+* *Locating modifications in signed data for partial data integrity*. Student Session, Latincrypt, Florianópolis, SC, Brazil, 2014.
+* *Uma Avaliação do Uso de Documentos Aderentes ao Padrão ICAO 9303 no âmbito Acadêmico (An evaluation of the use of documents adhering to ICAO 9303 standard in the academic environment)*. XIII Brazilian Symposium on Information and Computing Systems Security (SBSeg), Manaus, Brazil, 2013.
+* *Senhas descartáveis em dispositivos móveis para ambientes de Telemedicina (One-time passwords on mobile devices in telemedicine systems)*. XII Brazilian Symposium on Information and Computing Systems Security (SBSeg), 2012, Curitiba, Parana, Brazil, 2012. **(award winner)**
+
+
+**Posters:**
+* *Embedding cover-free families and cryptographical applications*. Engineering and Computer Science graduate poster competition, University of Ottawa, Ottawa, ON, Canada, March 2019. **(award winner)**
+* *Efficient unbounded fault-tolerant aggregate signatures using nested cover-free families*. Engineering and Computer Science graduate poster competition, University of Ottawa, Ottawa, ON, Canada, March 2018.
+* *Using cover-free families in aggregate signature schemes*. Canadian Celebration of Women in Computing (CAN-CWiC) Montreal, QC, Canada, November 2017.
+* *Locating modifications in signed data for partial data integrity*. Engineering and Computer Science graduate poster competition, University of Ottawa, Ottawa, ON, Canada, March 2016. **(award winner)**
+* *Locating modifications in signed data for partial data integrity*. Canadian Celebration of Women in Computing (CAN-CWiC), Ottawa, ON, Canada, February 2016.
+
+**Other talks:**
+* *Fault tolerance in cryptographic applications using cover-free families*. Discrete Math Seminar, Simon Fraser University, Burnaby, BC, Canada, November 2019.
+* *Embedding cover-free families and cryptographical applications*. Carleton Finite Fields Workshop 2019, Carleton University, Ottawa, ON, Canada, May 2019.
+* *Combinatorial cryptography*. Joint presentation with Lucia Moura at the Research@EECS event for undergraduate students at the University of Ottawa, Ottawa, ON, Canada, 2018.
+* *Efficient unbounded fault-tolerant aggregate signatures using nested cover-free families*. Ottawa- Carleton Combinatorics and Optimization Seminar, University of Ottawa, Ottawa, ON, Canada, 2018.
+* *Using combinatorial group testing to solve integrity issues*. Ottawa-Carleton Discrete Math Days, Carleton University, Ottawa, ON, Canada, 2016.
+

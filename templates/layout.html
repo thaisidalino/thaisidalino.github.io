@@ -1,0 +1,31 @@
+<!doctype html>
+<meta charset="utf-8">
+<link rel="stylesheet" href="{{ '/static/style.css'|url }}">
+<title>{% block title %}Welcome{% endblock %} Thais</title>
+<body>
+  <header>
+    <h2>Thais Bardini Idalino</h2>
+    <nav>
+      <ul class="nav navbar-nav">
+        <li{% if this._path == '/' %} class="active"{% endif
+          %}><a href="{{ '/'|url }}">About</a></li>
+        {% for href, title in [
+          ['/projects', 'Projects'],
+          ['/cv', 'CV'],
+          ['/publications', 'Publications'],
+          ['/presentations', 'Presentations'],
+          ['/teaching', 'Teaching']
+        ] %}
+          <li{% if this.is_child_of(href) %} class="active"{% endif
+            %}><a href="{{ href|url }}">{{ title }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+  </header>
+  <div class="page">
+    {% block body %}{% endblock %}
+  </div>
+  <footer>
+    <!&copy; Copyright 2020 by Thaís Bardini Idalino.-->
+  </footer>
+</body>

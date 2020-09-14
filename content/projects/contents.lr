@@ -1,0 +1,41 @@
+title:
+
+Research projects 
+---
+body:
+
+I have been involved with several research and software projects, mostly related to cryptography and combinatorics. 
+
+<h3>Combinatorics and applications</h3>
+
+
+I am particularly interested in exploring the fascinating area of combinatorics, and my research is usually motivated by interesting problems in cryptography. 
+
+** New constructions of *Difference Sets* (post-doc research)**
+
+A *Difference Set* D is a subset of a group G such that every non-identity element of G can be represented as a product d<sub>1</sub> d<sub>2</sub><sup>-1</sup> of two elements d<sub>1</sub> and d<sub>2</sub> of D. They have some interesting applications in coding theory and cryptography. 
+
+
+
+** Fault tolerance in cryptographic applications using *Cover-Free Families*
+ (<a href="https://ruor.uottawa.ca/handle/10393/39672" target="_blank">PhD Thesis</a>)**
+
+A *cover-free family* is a set system with n subsets of a t-set, where the union of any d subsets does not contain any other. They have several applications in cryptography, and we mainly explore the ones related to digital signatures. We propose new constructions of these families to allow for fault-tolerance in both static and dynamic applications.
+
+** Partial data integrity using combinatorial *group testing* (<a href="https://repositorio.ufsc.br/xmlui/bitstream/handle/123456789/169646/336415.pdf?sequence=1&isAllowed=y" target="_blank">master's thesis</a>)**
+
+Combinatorial group testing allows us to identify defective elements in a set of elements while performing a small number of tests. We use this technique to create a digital signature scheme that allows us to identify modifications in signed data without invalidating the entire signature.
+
+
+<br>
+<h3>Security and medical data (2013 and 2017)</h3>
+
+I have worked with medical systems on two different occasions. 
+The first one was a project to provide a reliable, flexible, and secure **authentication** for the telemedicine system used in the State of Santa Catarina (Brazil). The second was a study on private verification of access of medical data using **searchable encryption** techniques.
+
+
+<br>
+<h3>Public Key Infrastructure  (2010 - 2015)</h3>
+
+As part of a team at LabSEC (UFSC), we developed several **Public Key Infrastructure** software for educational purposes. These projects focused on exploring new approaches to make **digital certificates** accessible to students and staff at Brazilian universities.
+
