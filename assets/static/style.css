@@ -1,6 +1,9 @@
 body {
     font-family: 'Verdana', sans-serif;
-    margin: 50px 250px;
+    margin-top: 2em;
+    margin-bottom: 2em;
+    margin-left: 2em auto;
+    margin-right: 2em auto;
     background: #2C3E50;
     color: #2F4454;
 }
