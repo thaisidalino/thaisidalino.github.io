@@ -2,13 +2,8 @@ title: About Me
 ---
 body:
 
-<<<<<<< HEAD
 <p> <img src="thais.jpg"  style="float:left;width:200px;height:200px" id="hp">
 I am a full time professor in Computer Science at the Federal University of Santa Catarina, Brazil. I was previously a Postdoctoral Fellow in the Department of Mathematics at Simon Fraser University and recently completed my Ph.D. in Computer Science at the University of Ottawa. I place myself at the intersection of Combinatorics and Cryptography, with a special focus on developing new combinatorial objects with nice applications in cryptography.</p>
-=======
-<p> <img src="photo.jpg"  style="float:left;width:200px;height:200px;" id="hp">
-I am a Postdoctoral Fellow in the Department of Mathematics at Simon Fraser University and recently completed my Ph.D. in Computer Science at the University of Ottawa. I place myself at the intersection of Combinatorics and Cryptography, with a special focus on developing new combinatorial objects with nice applications in cryptography.</p>
->>>>>>> a0a9858bde39a7f0e1a88a2d4a918b450b7d222c
 <br>
 <br>
 <br>
@@ -17,19 +12,11 @@ I am a Postdoctoral Fellow in the Department of Mathematics at Simon Fraser Univ
 <br>
 **Experience:**
 
-<<<<<<< HEAD
 * Full time professor - Computer Science - Federal University of Santa Catarina (Jan 2021 - now)
 * Postdoctoral fellow - Mathematics Department - Simon Fraser University (nov 2019 - Jan 2021)
-=======
-* Postdoctoral fellow - Mathematics Department - Simon Fraser University (nov 2019 - now)
->>>>>>> a0a9858bde39a7f0e1a88a2d4a918b450b7d222c
 * Ph.D. degree in Computer Science - University of Ottawa (Sept 2015 - Sept 2019)
 * Master's degree in Computer Science - Federal University of Santa Catarina (Mar 2013 - Jun 2015)
 * Bachelor degree in Computer Science - Federal University of Santa Catarina (Mar 2009 - Dec 2012)
 
 <br>
-<<<<<<< HEAD
 **Contact:** thais.bardini@ufsc.br
-=======
-**Contact:** tbardini@sfu.ca
->>>>>>> a0a9858bde39a7f0e1a88a2d4a918b450b7d222c
