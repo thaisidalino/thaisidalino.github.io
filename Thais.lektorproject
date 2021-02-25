@@ -1,4 +1,8 @@
 [project]
 name = Thais
 [servers.ghpages]
+<<<<<<< HEAD
 target = ghpages://thaisidalino
+=======
+target = ghpages://thaisidalino/webpage
+>>>>>>> a0a9858bde39a7f0e1a88a2d4a918b450b7d222c
