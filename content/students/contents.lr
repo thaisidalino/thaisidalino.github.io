@@ -1,0 +1,18 @@
+_model: page
+---
+title: Students
+---
+body:
+
+I am always open to supervising motivated students in areas such as Computer Security, Cryptography and Combinatorics.
+
+Here are my supervised students and their research topics.
+
+**Undergraduate Students (TCC):**
+* *Gustavo de C. B.* <a href="https://repositorio.ufsc.br/handle/123456789/237989" target="_blank">Estudo de esquema de assinatura digital Dilithium.
+</a> (Concluído em 2022)
+* *Paola de O. A.* Esquema de assinatura digital tolerante a modificações. (TCC 1)
+* *Anthony B. K.* Criptografia homomórfica: uma introdução e suas aplicabilidades. (TCC 1)
+* *Marcos T.* Decodificador de Objetos ASN1 em WebAssembly. (Introdução ao TCC)
+---
+_discoverable: yes
