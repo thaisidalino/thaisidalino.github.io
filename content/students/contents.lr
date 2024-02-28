@@ -10,13 +10,17 @@ Here are my supervised students and their research topics.
 
 **Graduate Students:**
 * *Gustavo de C. B.* Master's student (co-supervisor)
+* *Anthony B. K.* Master's student (co-supervisor)
 
 **Current undergraduate Students (TCC):**
-* *Anthony B. K.* Criptografia homomórfica: uma introdução e suas aplicabilidades. (TCC II)
-* *Marcos T.* Decodificador de Objetos ASN1 em WebAssembly. (TCC I)
-* *João P. C. B.* Estudo de Esquemas de Criptografia Homomórfica Baseados em Reticulados. (TCC I)
+* *Marcos T.* Assinaturas digitais com referências externas para certificados de chave pública. (TCC II)
+* *João P. C. B.* Estudo de Esquemas de Criptografia Homomórfica Baseados em Reticulados. (TCC II)
+* *Gabriel L.* Certificação Digital em Dispositivos da Internet das Coisas. (TCC I)
+* *Victor H. H.* Análise de usabilidade dos aplicativos móveis Medida Inteligente Consumidor e Medida Inteligente Fiscal. (TCC I)
 
 **Past undergraduate Students (TCC):**
+* *Anthony B. K.* <a href="https://repositorio.ufsc.br/handle/123456789/253329" target="_blank"> Homomorphic encryption: introduction and applicabilities
+. </a> (Concluído em 2023)
 * *Paola de O. A.* <a href="https://repositorio.ufsc.br/handle/123456789/248660" target="_blank"> Esquema de assinatura digital tolerante a modificações. </a> (Concluído em 2023)
 * *Jonas C. da S.* <a href="https://repositorio.ufsc.br/handle/123456789/248936" target="_blank"> Análise de Vulnerabilidades em um aplicativo móvel. </a> (Concluído em 2023)
 * *Gustavo de C. B.* <a href="https://repositorio.ufsc.br/handle/123456789/237989" target="_blank">Estudo de esquema de assinatura digital Dilithium.
