@@ -1,5 +1,0 @@
-git status (ver arquivos alterados)
-git add arquivos-alterados
-git commit -m "msg"
-git push -u origin master
-lektor deploy ghpages
