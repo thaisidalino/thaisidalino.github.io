@@ -1,0 +1,18 @@
+_model: page
+---
+title: 
+---
+body:
+
+Here are some useful links.
+
+### Cryptography
+* Cryptography and security [resources](https://asecuritysite.com/) by Bill Buchanan.
+* [Basic Lattice Cryptography](https://eprint.iacr.org/2024/1287.pdf) by Vadim Lyubashevsky.
+* [Cryptography 101](https://cryptography101.ca/) with Alfred Menezes.
+* Interviews with [World-leaders in Cryptography](https://coetrust.com/blog/) by Bill Buchanan.
+* Lectures on [Zero Knowledge Proofs](https://rdi.berkeley.edu/zk-learning/)
+
+### Computer Science
+* [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
+* [Guia de Escrita e Edição de Textos](https://ic.unicamp.br/~rafael/alunos/escrita.html)

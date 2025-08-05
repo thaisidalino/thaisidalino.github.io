@@ -6,38 +6,46 @@ body:
 
 I have been involved with several research and software projects, mostly related to cryptography and combinatorics. 
 
-<h3> 1 - Digital Signatures for metrological data  (2021 - now)</h3>
+### **1. Digital Signatures for Metrological Data** (2021 - now)
 
-We study how digital certification can be explored to guarantee integrity and authenticity of data from metrological equipments. We have worked in partnership with INMETRO on a project that aims to reduce the number of frauds on gas stations by using digital signatures. Now we explore the application of digital certification in general IoT devices.  
+We study how digital certification can be explored to guarantee the integrity and authenticity of data from metrological equipment. We have worked in partnership with INMETRO on a project that aims to reduce the number of frauds on gas stations by using digital signatures. 
+Nowadays, together with prof. Martin Vigil, we explore the application of digital certification in general IoT devices. 
+ 
+----
 
-<h3> 2 - Combinatorics and applications</h3>
+### **2. Combinatorics and Applications**
 
-I am particularly interested in exploring the fascinating area of combinatorics, and my research is usually motivated by interesting problems in cryptography. 
+I am particularly interested in exploring the fascinating area of combinatorics, and my research is usually motivated by interesting problems in cryptography.
 
-** Fault tolerance in cryptographic applications using *Cover-Free Families*
- (<a href="https://ruor.uottawa.ca/handle/10393/39672" target="_blank">PhD Thesis</a>)**
+#### ** A Survey of Cover-Free Families: Constructions, Applications, and Generalizations ** 
+A *cover-free family* is a set system with n subsets of a t-set, where the union of any d subsets does not contain any other. I have been studying these objects with a special focus on applications in cryptography. Together with [Lucia Moura](https://www.site.uottawa.ca/~lucia/), we have published a [survey](https://link.springer.com/chapter/10.1007/978-3-031-48679-1_11) on the subject. 
 
-A *cover-free family* is a set system with n subsets of a t-set, where the union of any d subsets does not contain any other. They have several applications in cryptography, and we mainly explore the ones related to digital signatures. We propose new constructions of these families to allow for fault-tolerance in both static and dynamic applications.
+#### ** Fault tolerance in cryptographic applications using *Cover-Free Families* [(PhD Thesis)](https://ruor.uottawa.ca/handle/10393/39672)**
+We explore applications of cover-free families to digital signatures. We propose new constructions of these families to allow for fault-tolerance in both static and dynamic applications.
 
-** Partial data integrity using combinatorial *group testing* (<a href="https://repositorio.ufsc.br/xmlui/bitstream/handle/123456789/169646/336415.pdf?sequence=1&isAllowed=y" target="_blank">master's thesis</a>)**
+#### ** Partial data integrity using combinatorial *group testing* (<a href="https://repositorio.ufsc.br/xmlui/bitstream/handle/123456789/169646/336415.pdf?sequence=1&isAllowed=y" target="_blank">master's thesis</a>)**
 
-Combinatorial group testing allows us to identify defective elements in a set of elements while performing a small number of tests. We use this technique to create a digital signature scheme that allows us to identify modifications in signed data without invalidating the entire signature.
+Combinatorial group testing allows us to identify defective elements in a set of elements while performing a small number of tests. We use this technique to create a digital signature scheme that allows us to identify modifications in signed data without invalidating the entire signature. Nowadays, some students of mine have been exploring the practical implementations and improvements of this idea.
 
-**New constructions of *Cover-Free Families* and applications in a pandemic screening (<a href="https://link.springer.com/chapter/10.1007/978-3-031-06678-8_11" target="_blank">paper</a>)**
+#### **New constructions of *Cover-Free Families* and applications in a pandemic screening (<a href="https://link.springer.com/chapter/10.1007/978-3-031-06678-8_11" target="_blank">paper</a>)**
 
-We focus on new CFFs with applications to a pandemic scenario, where several tests need to be performed with limited resources. We show we can model communities of people with high-contacts using hypergraphs and we give constructions of what we call *structure-aware* cover-free families, which uses the structure of the hypergraphs. We revisit old CFF constructions, boosting the number of defectives they can identify by taking the hypergraph structure into account. We also provide new constructions based on hypergraph parameters.
+We focus on new CFFs with applications to a pandemic scenario, where several tests need to be performed with limited resources. We show we can model communities of people with high-contacts using hypergraphs, and we give constructions of what we call *structure-aware* cover-free families, which use the structure of the hypergraphs. We revisit old CFF constructions, boosting the number of defectives they can identify by taking the hypergraph structure into account. We also provide new constructions based on hypergraph parameters.
+An extended version of this paper will be submitted for publication soon.
 
-** New constructions of *Difference Sets* (post-doc research)**
+#### ** New constructions of *Difference Sets* (post-doc research)**
 
 A *Difference Set* D is a subset of a group G such that every non-identity element of G can be represented as a product d<sub>1</sub> d<sub>2</sub><sup>-1</sup> of two elements d<sub>1</sub> and d<sub>2</sub> of D. They have some interesting applications in coding theory and cryptography. In the past few years, we have been exploring new ways of constructing these objects. 
 
-<h3> 3 - Security and medical data (2013 and 2017)</h3>
+----
+
+### **3. Security and Medical Data** (2013 and 2017)
 
 I have worked with medical systems on two different occasions. 
-The first one was a project to provide a reliable, flexible, and secure **authentication** for the telemedicine system used in the State of Santa Catarina (Brazil). The second was a study on private verification of access of medical data using **searchable encryption** techniques.
+The first one was a project to provide a reliable, flexible, and secure **authentication** for the telemedicine system used in the State of Santa Catarina (Brazil). The second was a study on private verification of access to medical data using **searchable encryption** techniques.
 
-<h3> 4 - Public Key Infrastructure  (2010 - 2015)</h3>
+----
 
+### **4. Public Key Infrastructure** (2010 - 2015)
 As part of a team at LabSEC (UFSC), we developed several **Public Key Infrastructure** software for educational purposes. These projects focused on exploring new approaches to make **digital certificates** accessible to students and staff at Brazilian universities.
 
 
